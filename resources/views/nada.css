@@ -1,0 +1,28 @@
+body.home{
+   background-image: url(https://cdn.pixabay.com/photo/2015/05/07/11/02/guitar-756326_960_720.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+}
+
+
+body.entrar{
+   background-image: url(https://cdn.pixabay.com/photo/2015/05/15/14/30/guitarist-768532_960_720.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+}
+
+body.funcionario{
+   background-image: url(https://cdn.pixabay.com/photo/2017/08/07/03/53/drums-2599508_960_720.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+}
+
+
+
+#font{
+    font-family: 'Georama', sans-serif;
+}
+
