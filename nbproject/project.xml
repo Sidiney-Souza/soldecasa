@@ -10,6 +10,7 @@
             <word>foreach</word>
             <word>idade</word>
             <word>senha</word>
+            <word>usuario</word>
         </spellchecker-wordlist>
     </configuration>
 </project>

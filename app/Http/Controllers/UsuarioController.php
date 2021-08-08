@@ -68,7 +68,7 @@ class UsuarioController extends Controller
      */
     public function edit(Usuario $usuario)
     {
-       
+       return view('usuarios.create' ['usuario'=>$usuario]);
     }
 
     /**
